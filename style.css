@@ -22,8 +22,7 @@ body{
     display: flex;
 }
 /* #ab{
-    display: flex;
-} */
+    disp
 .dropdown-menu li:first-child a{
     font-weight: 500;
     font-size: x-large;
@@ -269,13 +268,6 @@ body{
 .imggg{
     display: flex;
 }
-/* .imgg1{
-   position: relative;
-   bottom: 15%;  
-} */
-/* li{
-    list-style-type: none;
-} */
 .main-carousel{
     padding-bottom: 10%;
     padding-top: 10%;
